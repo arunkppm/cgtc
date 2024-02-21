@@ -1,0 +1,57 @@
+*{
+    margin: 10px;
+    padding-top: 0%;
+}
+
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px 20px20px 20px;
+}
+.container{
+    text-align: center;
+    margin: 4%;
+    padding: 5%;
+}
+header{
+    padding-bottom: 10vh;
+    background-color: grey;
+}
+
+nav{
+    background-color: blue;
+}
+main{
+    text-align: center;
+    display: flex;
+    background-color: grey;
+    justify-content: center;
+}
+
+section{
+    text-align:right rgb(38, 173, 117);
+    width: 400px;
+    margin: 4%;
+    padding-top: 05%;
+    border: solid;
+}
+
+article{
+    background-color: rgb(146, 9, 9);
+    padding-bottom: 5%;
+    margin: 1%;
+}
+aside{
+    
+    background-color: blueviolet;width: 35%;
+    margin: 4%;
+
+}
+footer{
+    padding-bottom: 5vh;
+    background-color: grey;
+    margin-bottom: 0;
+}

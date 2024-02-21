@@ -1,0 +1,58 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+
+body {
+    background-color: aqua;
+
+}
+
+form   
+
+{
+   background-color: blue; 
+   margin: 40px;
+   padding: 10px;
+   max-width: 80%;
+   border: 2px solid black;
+   border-radius: 20px;
+   box-shadow: inset 5px 5px 5px 12px  #9b2929 }
+
+   input[type="username"]
+   {
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(41, 168, 115);
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px rgb(158, 70, 70), 5px 5px 12px grey ;
+
+   }
+   input[type="password"] 
+   {
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(41, 168, 115);
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px rgb(158, 70, 70), 5px 5px 12px grey ;
+
+   }
+   label{
+    text-shadow: 2px 2px 4px white;
+   }
+   input[type="submit"]:hover{
+    background-color: blueviolet;
+   }
+   input[type="submit"]{
+    width: 20%;
+    padding: 1%;
+    margin-bottom: 10px;
+    border: 1px solid rgb(41, 168, 115);
+    
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px rgb(241, 134, 134), 5px 5px 12px rgb(79, 235, 126) ;
+
+   }

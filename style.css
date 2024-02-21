@@ -1,0 +1,76 @@
+*{
+
+    margin: 020px;
+    padding: 020px;
+}
+
+body{
+    background-color: rgb(255, 0, 157);
+}
+form
+{
+    margin: 20px;
+    padding: 10 px;
+    border: dotted black;
+    background-color: aquamarine;
+}
+input[type="username"]
+   {
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(41, 168, 115);
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px rgb(158, 70, 70), 5px 5px 12px grey ;
+
+   }
+   input[type="password"] 
+   {
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(41, 168, 115);
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px rgb(158, 70, 70), 5px 5px 12px grey ;
+
+   }
+   input[type="username"]
+   {
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(41, 168, 115);
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px rgb(158, 70, 70), 5px 5px 12px grey ;
+
+   }
+   input[type="password"] 
+   {
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(41, 168, 115);
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px rgb(158, 70, 70), 5px 5px 12px grey ;
+
+   }
+   input[type="submit"]
+   {
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(41, 168, 115);
+    border-radius: 5px;
+    box-shadow: inset 2px 2px 5px  black, ;
+    cursor: pointer;
+   }
+   input[type="password"] 
+   {
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(41, 168, 115);
+    border-radius: 5px;
+    box-shadow: inset 5px 5px 12px rgb(158, 70, 70), 5px 5px 12px grey ;
+
+   }
